@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-#你不知道的js（上）
+# 你不知道的js（上）
 #### 1.[作用域和闭包](https://github.com/ljianshu/Blog/issues/76)
 You can use the [editor on GitHub](https://github.com/pambassador/pambassador.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
