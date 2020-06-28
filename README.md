@@ -3,6 +3,9 @@
 # 你不知道的js（上）
 #### 1.[作用域和闭包](https://github.com/pambassador/pambassador.github.io/issues/2)
 #### 2.[this和对象原型](https://github.com/pambassador/pambassador.github.io/issues/3)
+#### 3.[this全面解析](https://github.com/pambassador/pambassador.github.io/issues/4)
+#### 4.[对象](https://github.com/pambassador/pambassador.github.io/issues/5)
+
 You can use the [editor on GitHub](https://github.com/pambassador/pambassador.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
